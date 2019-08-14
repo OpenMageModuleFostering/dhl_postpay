@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>DHL_Postpay</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <stability>stable</stability>
     <license>--</license>
     <channel>community</channel>
@@ -10,9 +10,9 @@
     <description>The Extension connects your magento shop with DHL Postpay.</description>
     <notes>--</notes>
     <authors><author><name>DHL Vertriebs GmbH</name><user>--</user><email>support@meinpaket.de</email></author></authors>
-    <date>2015-02-13</date>
-    <time>12:55:09</time>
-    <contents></contents>
+    <date>2015-02-23</date>
+    <time>13:22:14</time>
+    <contents><target name="mage"><dir name="."><file name="README_POSTPAY.txt" hash="228cb3463611d76080e87cee1f688d1d"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php><package><name>DHL_MeinPaket2</name><channel>community</channel><min>1.0.0</min><max>3.0.0</max></package></required></dependencies>
 </package>
